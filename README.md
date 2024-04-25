@@ -18,7 +18,7 @@
   * [Bioinformatics, Codigo46, R&D](http://linkedin.com/company/codigo46/)
   * [Computational Biology, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 
-# See
+# Websites
 - [LinkedIn](https://www.linkedin.com/in/akram-mendez/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=temiXDwAAAAJ)
 
