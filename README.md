@@ -12,5 +12,10 @@
 * Implementation of workflows in AWS and HPC systems.
 * Good coding practices and version control with GitHub.
 
+## Experience
+  * [Cancer Systems Biology, Francis Crick Institute](https://www.crick.ac.uk/research/labs/francesca-ciccarelli)
+  * [Epigenetics, Institute of Biomedicine, University of Gothenburg](https://www.gu.se/en/research/tanmoy-mondal)
+  * [Bioinformatics, Codigo46, R&D](http://linkedin.com/company/codigo46/)
+  * [Computational Biology, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 
 
