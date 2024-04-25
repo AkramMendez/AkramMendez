@@ -20,5 +20,5 @@
 
 ### Websites
 - [LinkedIn](https://www.linkedin.com/in/akram-mendez/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=temiXDwAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=temiXDwAAAAJ&view_op=list_works&sortby=pubdate)
 
