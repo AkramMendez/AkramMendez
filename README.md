@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Akram Mendez, PhD**
 Computational Biology | Bioinformatics | Data Science 
 
@@ -12,4 +12,4 @@ Computational Biology | Bioinformatics | Data Science
 - Implementation of workflows in AWS and HPC systems.
 - Good coding practices and version control with GitHub.
 
--->
+
